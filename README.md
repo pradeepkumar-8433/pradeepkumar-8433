@@ -31,7 +31,7 @@ A simple Python-based chatbot that answers user questions.
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-pure843331@gmail.com
+- 📧 Email: pure843331@gmail.com
 - 💼 LinkedIn: (www.linkedin.com/in/pradeep-kumar-7750663b1)
 
 ---
@@ -48,6 +48,12 @@ A simple Python-based chatbot that answers user questions.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pradeepkumar-8433&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
