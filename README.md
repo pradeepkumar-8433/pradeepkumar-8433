@@ -32,7 +32,7 @@ A simple Python-based chatbot that answers user questions.
 ## 📫 Connect With Me
 
 - 📧 Email: pure843331@gmail.com
-- 💼 LinkedIn: (www.linkedin.com/in/pradeep-kumar-7750663b1)
+- 💼 LinkedIn: www.linkedin.com/in/pradeep-kumar-7750663b1
 
 ---
 
