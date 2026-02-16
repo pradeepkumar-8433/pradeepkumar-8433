@@ -1,3 +1,40 @@
+# 👋 Hi, I'm Pradeep Kumar
+
+🎓 Diploma Student in Computer Science & Engineering  
+💻 Passionate about Programming & Web Development  
+🚀 Learning and Building Projects to improve my skills  
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning: Python, Data Structures, HTML, CSS
+- 🤖 Currently working on: RoboBuddy - Python Based Chatbot
+- 🎯 Goal: Become a Software Developer
+- 📚 Exploring: Problem Solving & Open Source
+- 💬 Ask me about: Python, Basic Web Development
+- ⚡ Fun fact: I love building simple projects that solve real problems
+
+---
+
+## 📌 Projects
+
+### 🤖 RoboBuddy - AI Chatbot
+A simple Python-based chatbot that answers user questions.
+- Uses conditional logic
+- Handles multiple user queries
+- Beginner friendly AI project
+
+(More projects coming soon...)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your-pure843331@gmail.com
+- 💼 LinkedIn: (www.linkedin.com/in/pradeep-kumar-7750663b1)
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pure_soul__264) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pure843331@gmail.com) 
